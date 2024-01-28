@@ -1,0 +1,6 @@
+pragma solidity ^0.5.16; 
+
+contract HALWADA {
+    string public name = "HLWDA";
+    string public symbol = "HLWD";
+    uint256 public totalSupply = 50000000; // 50 million tokens
